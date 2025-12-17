@@ -1,7 +1,0 @@
-AlphaFold is a deep learning system developed by DeepMind that predicts
-the three-dimensional structure of proteins from their amino acid
-sequences. By using neural networks trained on known protein structures,
-AlphaFold dramatically improves accuracy over traditional computational
-methods and accelerates biological research by enabling structure-based
-insights without experimental crystallography.
-
