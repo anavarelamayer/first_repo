@@ -1,0 +1,13 @@
+# Ignore Jupyter auto-generated files
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
+
+# Prelim chart
+generate_preliminary_chart.py
+
+#virtual environments
+.env/
+.venv/
+
