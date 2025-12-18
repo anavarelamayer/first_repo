@@ -15,3 +15,9 @@ generate_preliminary_chart.py
 anaconda_projects/
 *.db
 
+filtered_mantamonis.csv
+
+# Large model artifacts
+*.pkl
+bioactivity_prediction_app/*.pkl
+
